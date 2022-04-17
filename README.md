@@ -9,7 +9,7 @@ I am working for a company that is looking toward offering retirement packages f
 # Results: 
 - The company should look into hiring more senior engineers as it will be losing a noteworthy amount
 - The company should also look into hiring engineers as several of them are retiring.
-![RetiringTitles](Resources\retiring_titles.png)
+! [DataFrame](Resources/retiring_titles.png)
 - Three are over 1500 employees who are eligible for the mentorship program
 - Over 1200 of these employees eligible for the mentorshop program are either senior engineers, engineers, or senior staff. 
 
